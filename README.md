@@ -1,0 +1,1 @@
+A small project in which we explored different search algorithms in the context of a Mars Rover moving in a map. We used the library SimpleAI for A*, breadth-first and depth-first algorithms. On the other hand we used Greedy Search and Simulated Annealing to go inside a Mars Crater. 
